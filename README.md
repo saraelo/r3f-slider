@@ -8,7 +8,6 @@ Is a 3D presentation tool built with R3F and TailwindCSS, designed to enhance we
 - **Interactive Controls**: Navigate through your presentation with intuitive and user-friendly controls.
 - **Customizable Themes**: Easily customize the appearance of your slides to align with your branding or design preferences.
 - **Responsive Design**: Enjoy a consistent viewing experience across various devices and screen sizes.
-- **Seamless Integration**: Embed `r3f-slider` into your web projects effortlessly, thanks to its React component-based architecture.
 
 ## Prerequisites
 
