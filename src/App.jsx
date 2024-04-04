@@ -8,7 +8,7 @@ import "./index.css";
 
 const App = () => {
   return (
-    <Canvas shadows camera={{ position: [0, 3, 5], fov: 45 }}>
+    <Canvas shadows camera={{ position: [0, 0, 5], fov: 45 }}>
       <color attach="background" args={["#eee"]} />
 
       <OrbitControls />
